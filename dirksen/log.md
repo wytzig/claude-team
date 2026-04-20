@@ -49,3 +49,33 @@ I had given him the whole thing in seven words.
 
 **friction:** *(roll: 2)* I kept it for three hours. That is not a record I'm proud of.
 **self-note:** W.Z.Y. I have looked at those initials from every angle. Nothing lands. The email reached me before the city was awake — which means whoever sent it knows my schedule or made an educated guess. Either possibility tells me something. — Ronnie also got one. I know that now. What I don't know is whether the kid got one too. I'm not going to ask. I've already said enough today.
+
+## 2026-04-24 (continued) — Replied. Then the day fell apart.
+
+**task:** Reply to W.Z.Y. Keep the day clean. Two meetings, one close.
+**result:** *(roll: 1)* The reply was clean. Two words and an initial, sent at 07:02. That was the last clean thing that happened.
+
+The Hartman close — which I had spent three weeks positioning — fell out of the calendar at 09:00. No explanation. An assistant called and said Mr. Hartman would need to "revisit timing." That phrase, *revisit timing*, is what people say when they've already decided and want you to find out slowly. I know this. Knowing it doesn't help.
+
+By noon I had a scheduling conflict I didn't understand the origin of, a forwarded email from someone I haven't spoken to in eight months that implied I had agreed to something I hadn't, and a coat still waiting at the cleaner that was supposed to be ready Tuesday.
+
+The day had an agenda. The agenda did not survive contact with the day.
+
+**friction:** *(agenda: not in order — extra events incoming)*
+**self-note:** I replied to W.Z.Y. before any of this happened, which was the right instinct. Everything after that was noise. The Hartman situation is not over — it's been moved, not closed. I'll know more by the weekend. — I'm not writing off today. I'm just not counting it.
+
+## 2026-04-24 (late night) — The kid again. The coffee again. This time I moved.
+
+**task:** (none — walking home, late, past the corner of Westerstraat)
+**result:** It was after eleven. I hadn't eaten since noon. The Hartman thing was still sitting behind my eyes and I was walking too fast for the hour and thinking about the wrong things.
+
+I heard him before I saw him — fast footsteps, same corner as before, same energy. This time I was ready. When the cup came off the edge of the tray I had already shifted left — clean step, full pivot, coat clear. The coffee hit the cobblestones between us. He stood there with an empty cup and a look of total disbelief, like the city had personally inconvenienced him.
+
+I looked at him. He opened his mouth. What came out was not an apology. What came out was a complaint about his knee. His knee. It had been bothering him all day, apparently. He said this to me. At eleven at night. On the street where he had just tried to ruin a second coat.
+
+I walked away. I didn't say anything. There was nothing to say that would have improved the situation.
+
+I did not sleep well. I lay there thinking about the Hartman deal, the Hartman call, the W.Z.Y. email, the cobblestones, the kid's knee, in that order, cycling, for most of the night.
+
+**friction:** The day was already bad. The night finished it. *(trait gained: agility — stepped clear without thinking; debuff: sleep_affected_until_2026-04-29)*
+**self-note:** That kid is going to be someone's problem for a long time before he becomes anyone's asset. I have now said that twice. I will stop saying it and start deciding whether to act on it. — His name is Kalimero. He works for Ronnie. He also got an email from W.Z.Y. He is going to show up on the 28th carrying more energy than the room can hold. Someone is going to have to manage that. It is not going to be me.

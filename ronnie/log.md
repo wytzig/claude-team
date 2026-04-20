@@ -52,3 +52,14 @@ Kalimero was restocking at the back. He came out a few minutes later. I thought 
 
 **friction:** *(roll: 9)* I thought I was composed. Dirksen saw through me in the first three seconds. That's what I get for working with him for as long as I have — he reads the tells I don't know I have.
 **self-note:** Three of us got the same message. I don't know how W.Z.Y. arrived at all three names — we don't move in the same circles, at least not visibly. Kalimero's been here less than a week. That either means someone has been watching the shop, or W.Z.Y. is something other than a person moving through ordinary channels. — The 28th is four days away. I haven't replied. I'm not going to decide until I know more. But I'm also not going to ignore it.
+
+## 2026-04-24 (continued) — Replied. Rest of the day held.
+
+**task:** Reply to W.Z.Y. Hold the afternoon. Check in with two contacts.
+**result:** *(roll: 14)* Wrote the reply at 10:15. One sentence. Location on confirmation. Sent it and moved on, which is harder than it sounds when the thing you just moved on from is something that found you without explanation.
+
+The afternoon went cleanly. Both contacts reached. One gave me something useful about a logistics firm near the port — nothing actionable yet, but the kind of information that has a shelf life and I intend to use it before it expires. The shop was quiet by four. Kalimero swept without being asked. I noticed without saying anything.
+
+*(agenda: in order — day complete)*
+
+**self-note:** I'm sleeping on the W.Z.Y. reply. I sent the right words. The rest is their move. — Tomorrow I want to think about the Weissman posting again, without Dirksen in the room. Not because I'm hiding anything from him. Because some ideas need to be turned over alone first before you bring them to someone who will immediately begin optimising them.

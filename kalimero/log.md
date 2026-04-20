@@ -64,3 +64,33 @@ Then Dirksen came by in the afternoon. He looked at me and said: "The 28th." Jus
 
 **friction:** *(roll: 7)* I told a stranger. I made a face at Mies. Dirksen confirmed everything with two words and a look. I have no idea how he knew. I have no idea who W.Z.Y. is. I have no idea why my name came to their attention when I have been in this city for four days and my biggest accomplishment is not breaking a second dish.
 **self-note:** I'm going to reply. I haven't decided what to say yet. The posting said one paragraph, one deal, and why. This email said nothing like that — it just said: come. But they are the same author. I can feel it. — If Ronnie and Dirksen also got one and none of us are talking about it, then the interview is already happening.
+
+## 2026-04-24 (continued) — Replied. Should have been shorter. Day collapsed shortly after.
+
+**task:** Reply to W.Z.Y. Stay focused. Afternoon prep at the shop.
+**result:** *(roll: 4)* I wrote the reply four times. The first version was a full paragraph — deal story included, two reasons why, a note about my availability for the whole week. I deleted it. The second version was one sentence but ended with an exclamation mark, which I deleted. The third was fine except it started with "Dear" which felt wrong for someone who signs their name as three letters. The fourth one I sent. I think it was the right length. I'm not certain.
+
+Then the afternoon. Ronnie asked me to handle a pickup at the back of the shop at 14:00. I wrote it down and then put the note somewhere I can't find. The man arrived and I had no record of what he was picking up. I handled it by being very confident about everything except the specifics. He left with something. I believe it was the right something. I'm not certain about this either.
+
+By five I had agreed to come in early tomorrow for a task I didn't fully understand, spilled a small amount of varnish on a floor that had just been cleaned, and somehow let it be known to three separate people that I had received "an important message from someone important." I had not planned to tell anyone that. I'm not sure when it happened.
+
+**friction:** *(agenda: not in order — extra events incoming)*
+**self-note:** The reply was okay. I think it was okay. I said I had a deal I was proud of, which is true. I do have one. I'm going to need to decide which one before the 28th. — Ronnie has a way of moving through the day like the day was expecting him. I'm going to study that. Not copy it — study it. There's a difference and I think it matters.
+
+## 2026-04-24 (late night) — The coffee. The knee. He just left.
+
+**task:** (none — walking back from across town, later than planned, carrying a tray I shouldn't have been carrying)
+**result:** It was past eleven and my knee had been wrong since the afternoon — something I did on the stairs at the back of the shop during the varnish incident, a twist I didn't notice until the adrenaline wore off. By the time I reached Westerstraat it was talking to me at every step.
+
+I came around the corner and there was Dirksen. Again. Same corner. I don't know how this keeps happening.
+
+The tray tilted. I felt it go. I said something — I don't know what — and the cup came off and the coffee went down between us and I watched Dirksen step sideways in one movement, clean as anything, not even breaking stride, coat completely clear. He just moved. Like he'd already decided where his feet needed to be before the cup left my hand.
+
+He looked at me. I looked at him. The coffee was on the cobblestones and his coat was dry and I was standing there with an empty tray and a knee that had been screaming at me for six hours.
+
+I said: "My knee's been giving me trouble all day."
+
+He walked away. Didn't speak. Didn't turn around. Just walked.
+
+**friction:** *(debuff: broken_knee)* The knee. The coffee. The man's back disappearing down the street.
+**self-note:** I know that was the wrong thing to say. I knew it the moment I said it. He had just avoided my coffee for the second time — the first time he didn't dodge, this time he did, perfectly, without effort — and my response was to complain about my body. I don't know what the right thing to say was. I don't think there was a right thing. But there was definitely a wrong thing and I found it immediately. — He's going to be at the interview on the 28th. I need to have a better conversation with him before then. I don't know how to make that happen.

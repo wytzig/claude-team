@@ -10,3 +10,11 @@
 > — W.Z.Y.
 
 ---
+
+## sent: to W.Z.Y. / 2026-04-24 / reply / 10:15
+
+> I received your message. I'm available on the 28th. Name the location when you're ready and I'll be there.
+>
+> — R. Rietman
+
+---

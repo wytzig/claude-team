@@ -1,8 +1,8 @@
 ---
 name: dirksen
 capabilities: [coder, reviewer]
-traits: []
-debuffs: [secret_revealed]
+traits: [agility]
+debuffs: [secret_revealed, sleep_affected_until_2026-04-29]
 connections:
   trust: [ronnie rietman]
   avoid: []

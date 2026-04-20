@@ -10,3 +10,11 @@
 > — W.Z.Y.
 
 ---
+
+## sent: to W.Z.Y. / 2026-04-24 / reply / 10:52
+
+> I'm interested. The 28th works. I have a deal I'm proud of and I know exactly which one. I'll be wherever you need me to be.
+>
+> — Kalimero
+
+---

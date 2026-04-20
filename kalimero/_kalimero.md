@@ -2,7 +2,7 @@
 name: kalimero
 capabilities: [trader, dreamer]
 traits: []
-debuffs: [secret_revealed]
+debuffs: [secret_revealed, broken_knee]
 connections:
   trust: []
   avoid: []
