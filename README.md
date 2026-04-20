@@ -28,19 +28,6 @@ A team of fictional characters — each with a distinct identity, voice, and wor
 
 The retro document `retro/2026-04-20_ronnie_dirksen_coffee.md` — *The Late Coffee, A Retrospective in Twelve Parts* — is the heart of the project so far. Two men, a canal café, fog off the water, a post-shift debrief that turns into something more. Leib read it and is turning it into a command-line visual novel: typewriter text, strategic silences, ANSI amber for streetlights, no going back.
 
-## Structure
-
-```
-_team.md              # norms, message format, character file contract
-_orchestrator.md      # routing logic and retro cycle
-dirksen/
-  _dirksen.md         # character file
-  inbox.md            # incoming tasks
-  log.md              # completed work
-ronnie/               # same structure
-leib/                 # same structure
-retro/                # dated retrospective documents
-```
 
 ## The experiment
 
