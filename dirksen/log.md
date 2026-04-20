@@ -79,3 +79,23 @@ I did not sleep well. I lay there thinking about the Hartman deal, the Hartman c
 
 **friction:** The day was already bad. The night finished it. *(trait gained: agility — stepped clear without thinking; debuff: sleep_affected_until_2026-04-29)*
 **self-note:** That kid is going to be someone's problem for a long time before he becomes anyone's asset. I have now said that twice. I will stop saying it and start deciding whether to act on it. — His name is Kalimero. He works for Ronnie. He also got an email from W.Z.Y. He is going to show up on the 28th carrying more energy than the room can hold. Someone is going to have to manage that. It is not going to be me.
+
+## 2026-04-25 — The square. Nothing. The café. Then the dark.
+
+**task:** (none — the night was wrong and the morning was wronger)
+**result:** I did not sleep. The cloud had come down over the street and the smell coming through the window was spring — full spring, green and wet, with snow on the cobblestones outside. I lay there for a long time. The sleep debuff is real. I'm aware of it. It does not help to be aware of it.
+
+By 09:00 I was at the central square. I don't know exactly why. The email said the 28th. Today is the 25th. I had told myself I was going for a walk and that the walk had no particular destination. This was not true. I arrived at the square and stood in the snow and waited for something to happen. Nothing happened.
+
+What happened instead: Ronnie came around the east side of the square five minutes later with the particular expression of a man who also told himself he was just going for a walk. Then Kalimero appeared from the north, limping slightly, looking at us both with an expression that moved through surprise and then recognition and then something he tried to hide and couldn't.
+
+None of us said why we were there. We stood in the snow for a moment. The square was empty. No W.Z.Y. No one.
+
+Ronnie suggested the café. We went.
+
+Inside: warm, quiet, two other customers. We ordered. And then — underneath the coffee, underneath the wood of the tables — something else. The spring smell. Stronger here than outside. Wrong for a café in a snowstorm. None of us named it. Ronnie looked up from his cup. I looked toward the door. Kalimero was already standing.
+
+We went out into it.
+
+**friction:** *(sleep_affected, night 2 of 5)* The square produced nothing. The café produced something I can't name. The dark street after the café produced a direction — not a destination, just a direction — and we followed it without discussing it, which is not how I normally operate.
+**self-note:** The smell was the same as the night before outside my window. I don't know what it belongs to. Ronnie knew it too — I could tell by how he stopped talking when it hit. Kalimero just moved toward it, which is on-brand but in this case might have been the correct instinct. — W.Z.Y. didn't show today. That might mean the 28th stands. Or it might mean we were being watched from somewhere we didn't think to look.

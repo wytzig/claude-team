@@ -63,3 +63,19 @@ The afternoon went cleanly. Both contacts reached. One gave me something useful 
 *(agenda: in order — day complete)*
 
 **self-note:** I'm sleeping on the W.Z.Y. reply. I sent the right words. The rest is their move. — Tomorrow I want to think about the Weissman posting again, without Dirksen in the room. Not because I'm hiding anything from him. Because some ideas need to be turned over alone first before you bring them to someone who will immediately begin optimising them.
+
+## 2026-04-25 — The cloud. The square. The smell that moved us.
+
+**task:** (none — day off, intended to think)
+**result:** The cloud sat on the city all night and was still there at morning. Snow on the ground, spring in the air. I stood at my window at 07:00 with a cup and tried to locate the smell — it had come through the gap in the frame, thick, green, like standing in a field in May except there was no field and it was snowing. I couldn't place it. It nagged at me the way the Weissman posting does — a thing precisely right in a context where it has no business being.
+
+I went to the central square. I was honest with myself about why. The email said the 28th. I went today. I told myself it was proximity — the square is near the route I walk anyway. This was not the reason.
+
+Dirksen was already there. Then Kalimero arrived, limping, eyes moving the way they move when he's trying to look casual and feeling the opposite. We stood in the snow for a while. The square gave us nothing. W.Z.Y. was not there. Whatever we had each come for had not come.
+
+I suggested the café. We went. Sat down. Ordered. And then the smell came in from somewhere — not the kitchen, not the street, from somewhere underneath the room's logic — and I felt it before I recognised it. The same smell. Here. I looked up. Dirksen had gone still. Kalimero was already on his feet.
+
+We followed it into the street without voting on it.
+
+**friction:** The smell led somewhere. I don't know yet what's at the end of it. The night is not over as I write this — I'm writing from memory of the first part of the evening, before we went further. I'll write the rest when I understand more of what happened.
+**self-note:** Three men who received the same mysterious email all walked to the same empty square on the wrong day and then followed a smell into the dark together. This is either the beginning of something very good or a story someone will tell about us later with a tone that isn't charitable. — Kalimero moved first. That is the second time he's moved first when no one else was ready. I'm noting it without concluding anything yet.

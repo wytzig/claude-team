@@ -94,3 +94,25 @@ He walked away. Didn't speak. Didn't turn around. Just walked.
 
 **friction:** *(debuff: broken_knee)* The knee. The coffee. The man's back disappearing down the street.
 **self-note:** I know that was the wrong thing to say. I knew it the moment I said it. He had just avoided my coffee for the second time — the first time he didn't dodge, this time he did, perfectly, without effort — and my response was to complain about my body. I don't know what the right thing to say was. I don't think there was a right thing. But there was definitely a wrong thing and I found it immediately. — He's going to be at the interview on the 28th. I need to have a better conversation with him before then. I don't know how to make that happen.
+
+## 2026-04-25 — The snow smelled like May. The square was empty. We all knew anyway.
+
+**task:** (none — couldn't stay inside)
+**result:** I woke up at 06:00 because something outside smelled wrong in the best way. Spring — real spring, deep green, the kind of air that means the world has turned a corner — but there was snow on the windowsill and the cloud was sitting on the street like it had paid rent. My knee was still bad. I didn't care. I got dressed.
+
+The central square: I told myself I was going because I had an errand nearby. This was a lie I told myself for about four minutes before I stopped bothering. The email said the 28th. I went on the 25th because something in the night had made me feel like going today was correct. I don't know how to be more honest than that.
+
+Dirksen was there. Standing very still in the snow, the way he stands when he's deciding something. He looked at me. Then Ronnie came in from the east side and I watched both of their faces do the same thing mine did — recognition that we'd all come for the same reason, embarrassment that we'd all come for the same reason, and then a kind of relief that we were at least all equally confused.
+
+W.Z.Y. was not there. The square was empty except for us and some pigeons who also seemed uncertain about the snow.
+
+Ronnie said café. We went.
+
+Inside I was warming my hands when the smell hit — the same spring smell from the morning, but concentrated, green and alive and laced with something that made me think of growing things in dark soil. It came from no direction. It came from everywhere. Ronnie stopped mid-sentence. Dirksen went still again.
+
+I stood up. I don't know why I stood up. My knee said not to. I stood up anyway.
+
+We went out into the dark. The snow was still falling. The smell was ahead of us, somewhere, and we followed it because it was the only thing in the night that knew where it was going.
+
+**friction:** *(broken_knee — every step after 20:00 was an argument)* The square gave nothing. The smell gave a direction. I don't know what's at the end of the direction yet.
+**self-note:** I was first out the door. I noticed Ronnie noticing that. I don't know if it was brave or just fast — probably just fast, and brave is what you call it after. — This is the most interesting night I've had since I got to this city. The bar was not high. The night is clearing it anyway.
