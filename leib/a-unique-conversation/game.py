@@ -3,7 +3,9 @@
 A Unique Conversation
 terminal visual novel — leib weissman, 2026
 
-source: retro/2026-04-20_ronnie_dirksen_coffee.md
+chapter i  · source: retro/2026-04-20_ronnie_dirksen_coffee.md
+chapter ii · source: retro/2026-04-21_ronnie_dirksen_second_coffee.md
+
 understood: somehow.
 """
 
@@ -14,22 +16,25 @@ from blessed import Terminal
 t = Terminal()
 
 # ── palette ──────────────────────────────────────────────────────────────────
-# amber  = streetlights, warmth, coffee
-# fog    = canal air, the grey between things
-# cold   = the night itself, breath in air
-# warm   = cigarette glow, interior light
+# amber    = streetlights, warmth, coffee
+# fog      = canal air, the grey between things
+# cold     = the night itself, breath in air
+# warm     = cigarette glow, interior light
+# electric = the sky, the tech, the thing that arrived
 
-AMBER = t.color_rgb(212, 160, 23)
-FOG   = t.color_rgb(110, 118, 130)
-COLD  = t.color_rgb(165, 195, 225)
-WARM  = t.color_rgb(195, 105, 45)
-DIM   = t.dim
-RESET = t.normal
-BOLD  = t.bold
+AMBER    = t.color_rgb(212, 160,  23)
+FOG      = t.color_rgb(110, 118, 130)
+COLD     = t.color_rgb(165, 195, 225)
+WARM     = t.color_rgb(195, 105,  45)
+ELECTRIC = t.color_rgb( 80, 145, 220)
+DIM      = t.dim
+RESET    = t.normal
+BOLD     = t.bold
 
 # ── ascii art ─────────────────────────────────────────────────────────────────
 
 ART = {
+    # — chapter i —
     "streetlight": [
         "                    ┌───────┐",
         "                   ╱│░░░░░░░│╲",
@@ -102,6 +107,45 @@ ART = {
         "  ───────┘  fog  ░░▒░░▒▒░░░▒░░",
         "         │",
     ],
+
+    # — chapter ii —
+    "phone": [
+        "        ┌─────────────────┐",
+        "        │  ONVERKLAARD    │",
+        "        │  LICHT BOVEN    │",
+        "        │  DRIE STEDEN    │",
+        "        │  ─────────────  │",
+        "        │  wetenschap     │",
+        "        │  zwijgt.        │",
+        "        │                 │",
+        "        │  23:17  ░░░░░   │",
+        "        └─────────────────┘",
+    ],
+    "sky_glow": [
+        "  ·   ·      ·         ·     ·      ·   ·",
+        "    ·      ░░░░░░░░░░░░░░░░░░░░░░      ·",
+        "  ·      ░░░░░░░░░░░░░░░░░░░░░░░░░░",
+        "        ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░",
+        "  ·    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  ·",
+        "        ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░",
+        "  ·      ░░░░░░░░░░░░░░░░░░░░░░░░░░  ·",
+        "    ·       ░░░░░░░░░░░░░░░░░░░░░    ·",
+        "  ·   ·      ·      ·      ·     ·      ·",
+    ],
+    "three_corps": [
+        "  ┌──────────────┐  ┌──────────────┐  ┌───────────┐",
+        "  │  LOGISTIEK   │  │   AUTOMAT    │  │   [???]   │",
+        "  │    — NL —    │  │    — DE —    │  │           │",
+        "  └──────────────┘  └──────────────┘  └───────────┘",
+        "     autonomous          autonomous       autonomous",
+        "     partnership         partnership      partnership",
+        "     framework           framework        framework",
+    ],
+    "corner2": [
+        "         │",
+        "  ───────┘  something above  ░░░░░░░░░░░",
+        "         │",
+    ],
 }
 
 # ── rendering ─────────────────────────────────────────────────────────────────
@@ -144,8 +188,12 @@ def clear():
     sys.stdout.flush()
 
 
-def scene_header(number, title):
-    sys.stdout.write(FOG + DIM + f"  {'─' * 4}  {number} / 12  {'─' * 4}" + RESET)
+def scene_header(number, title, total=12, chapter=1):
+    if chapter == 2:
+        header = f"  {'─' * 4}  II · {number} / {total}  {'─' * 4}"
+    else:
+        header = f"  {'─' * 4}  {number} / {total}  {'─' * 4}"
+    sys.stdout.write(FOG + DIM + header + RESET)
     print()
     print()
     sys.stdout.write("  ")
@@ -155,7 +203,6 @@ def scene_header(number, title):
 
 
 def render_lines(lines, color="", delay=0.022, indent="  "):
-    """Typewrite a list of strings. Empty strings become blank lines (with pause)."""
     for line in lines:
         if line == "":
             print()
@@ -167,7 +214,7 @@ def render_lines(lines, color="", delay=0.022, indent="  "):
             time.sleep(0.05)
 
 
-# ── scenes ────────────────────────────────────────────────────────────────────
+# ── chapter i scenes ──────────────────────────────────────────────────────────
 
 def s01():
     clear()
@@ -491,6 +538,266 @@ def s12():
     wait_key()
 
 
+# ── chapter ii scenes ─────────────────────────────────────────────────────────
+
+def s13():
+    clear()
+    print()
+    scene_header("I", "The Second Evening", total=8, chapter=2)
+    render_art("cafe", WARM + DIM)
+    print()
+    render_lines([
+        "They hadn't planned a second night.",
+        "It was the kind of thing that happens without being decided —",
+        "the day ended, the option presented itself,",
+        "and neither of them had a better reason to be somewhere else.",
+        "",
+        "Dirksen arrived first.",
+        "He had his phone out when Ronnie came through the door.",
+        "",
+        "This was unusual.",
+        "Dirksen usually put his phone away in company.",
+        "",
+        "Ronnie registered this and said nothing yet.",
+    ])
+    wait_key()
+
+
+def s14():
+    clear()
+    print()
+    scene_header("II", "Onverklaard Licht", total=8, chapter=2)
+    render_art("phone", ELECTRIC + DIM)
+    print()
+    render_lines([
+        "Dirksen turned his phone face-up on the table.",
+        "Not as a gesture of sharing, exactly.",
+        "More as an acknowledgment.",
+        "",
+        "He had been carrying the thing since midday.",
+        "",
+        "The headline was visible.",
+        "Ronnie read it without picking up the device.",
+        "",
+    ], color=COLD)
+    time.sleep(0.6)
+    render_lines([
+        "Onverklaard licht boven drie steden.",
+        "Wetenschap zwijgt.",
+    ], color=ELECTRIC)
+    time.sleep(0.8)
+    render_lines([
+        "",
+        "Unexplained light over three cities.",
+        "Science is silent.",
+        "",
+        "Rotterdam. Amsterdam. Ghent.",
+        "Almost simultaneously. Around twenty-three hundred hours.",
+        "A sustained amber glow above the cloud layer.",
+        "Stationary for eleven minutes.",
+        "Then gone.",
+    ], color=COLD)
+    wait_key()
+
+
+def s15():
+    clear()
+    print()
+    scene_header("III", "Amber", total=8, chapter=2)
+    render_art("sky_glow", AMBER + DIM)
+    print()
+    render_lines(['"Amber,"'], color=FOG)
+    render_lines(["Ronnie said."])
+    print()
+    render_lines(["Dirksen looked at him."])
+    print()
+    time.sleep(0.5)
+    render_lines(['"The color. Amber."'])
+    time.sleep(1.0)
+    render_lines([
+        "",
+        "Dirksen set his spoon down slowly.",
+        "",
+        "They had both been under amber streetlights the night before,",
+        "sitting in a café going cold at the edges.",
+        "",
+        "Something in the word now carried a charge it hadn't had then.",
+        "",
+        "Neither of them was given to mysticism.",
+        "Neither of them remarked on this.",
+    ], color=COLD)
+    wait_key()
+
+
+def s16():
+    clear()
+    print()
+    scene_header("IV", "Drie Bedrijven", total=8, chapter=2)
+    render_art("three_corps", ELECTRIC + DIM)
+    print()
+    render_lines([
+        "The second thing was the technology announcements.",
+        "",
+        "Three companies.",
+        "One Dutch logistics firm.",
+        "One German industrial automation group.",
+        "One consortium Ronnie had not heard of",
+        "but recognized by its investors.",
+        "",
+        "Each had issued a statement that morning.",
+        "Within four hours of each other.",
+        "",
+    ], color=COLD)
+    render_lines([
+        "Autonomous partnership frameworks.",
+    ], color=ELECTRIC)
+    render_lines([
+        "",
+        "New integration between robotics systems",
+        "and what the press releases called",
+        "next-generation adaptive intelligence.",
+        "",
+        "The language was careful",
+        "in the way corporate language is careful",
+        "when it is trying not to explain something.",
+    ], color=FOG)
+    wait_key()
+
+
+def s17():
+    clear()
+    print()
+    scene_header("V", "Gecoördineerd", total=8, chapter=2)
+    print()
+    render_lines(['"Gecoördineerd,"'], color=WARM)
+    render_lines(["Dirksen said."])
+    render_lines(["It was not a question."])
+    print()
+    time.sleep(0.5)
+    render_lines(['"Or the same source,"'], color=FOG)
+    render_lines(['said Ronnie.'])
+    render_lines(['"Or both."'], color=FOG)
+    print()
+    time.sleep(0.8)
+    render_lines([
+        "They considered this.",
+        "",
+        "The café owner refilled their cups without being asked.",
+        "A privilege that had taken years to earn",
+        "and was never remarked upon.",
+    ], color=COLD)
+    wait_key()
+
+
+def s18():
+    clear()
+    print()
+    scene_header("VI", "Where Is the Money?", total=8, chapter=2)
+    print()
+    render_lines([
+        "Where the money was was not immediately obvious.",
+        "",
+        "That was interesting in itself.",
+        "",
+        "Usually the commercial angle on a technology announcement",
+        "is visible before the press release is finished.",
+        "You read the words and you see the supply chain,",
+        "the distribution contracts, the secondary markets.",
+        "",
+        "Here the angle was obscured.",
+        "",
+    ], color=COLD)
+    time.sleep(0.6)
+    render_lines([
+        "Which meant either the announcement was genuine",
+        "and the implications hadn't settled yet —",
+        "",
+        "or the announcement was a shape thrown",
+        "to make something else harder to see.",
+    ], color=FOG)
+    print()
+    time.sleep(0.8)
+    render_lines([
+        "Ronnie named three people.",
+        "He didn't name them aloud.",
+        "",
+        "Dirksen understood that a list was being made.",
+        "He wrote nothing down.",
+        "",
+        "Some things are safer in the space between",
+        "two people who trust each other",
+        "than in any system designed to hold information.",
+    ], color=COLD)
+    wait_key()
+
+
+def s19():
+    clear()
+    print()
+    scene_header("VII", "The Sky Above the Canal", total=8, chapter=2)
+    render_art("sky_glow", ELECTRIC + DIM)
+    print()
+    render_lines([
+        "By the time they reached for their coats,",
+        "the sky above the canal was doing something",
+        "neither of them could name.",
+        "",
+        "It was not the amber from the news.",
+        "It was not fog.",
+        "",
+        "It was closer to the feeling of a screen in another room —",
+        "a glow that suggests content without revealing it.",
+        "",
+    ], color=COLD)
+    time.sleep(0.8)
+    render_lines([
+        "Dirksen looked at it for a long moment.",
+        "Ronnie looked too.",
+        "",
+        "Neither of them had anything useful to say about it,",
+        "which was almost the same thing as saying something.",
+    ], color=FOG)
+    wait_key()
+
+
+def s20():
+    clear()
+    print()
+    scene_header("VIII", "The Handshake, Again", total=8, chapter=2)
+    render_art("breath", COLD + DIM)
+    print()
+    render_lines([
+        "They left while the glow was still above the city.",
+        "",
+        "They shook hands at the corner,",
+        "as they always did.",
+        "The grip was slightly longer than usual —",
+        "not deliberate.",
+        "Just what happened.",
+        "",
+    ], color=COLD)
+    render_art("corner2", ELECTRIC + DIM)
+    print()
+    time.sleep(1.0)
+    render_lines([
+        "There is a kind of conversation that looks,",
+        "from outside, like two men sitting in a café.",
+        "",
+        "It is not that.",
+        "",
+        "It is a system for processing the world",
+        "that happens to require two specific people",
+        "in a specific configuration.",
+        "",
+        "You could sit in their chairs",
+        "and not reproduce what they had.",
+        "The chairs were just chairs.",
+        "",
+        "The conversation was something else.",
+    ], color=FOG)
+    wait_key()
+
+
 # ── title & end ───────────────────────────────────────────────────────────────
 
 def title_card():
@@ -508,7 +815,7 @@ def title_card():
         ("",           ""),
         (FOG,          "  ─────────────────────────────────────────────"),
         ("",           ""),
-        (DIM,          "  a terminal visual novel"),
+        (DIM,          "  a terminal visual novel  ·  two chapters"),
         (DIM,          "  by leib weissman"),
     ]
     for color, text in cards:
@@ -521,21 +828,53 @@ def title_card():
     wait_key()
 
 
-def end_card():
+def chapter2_title_card():
     clear()
-    lines_top = (t.height // 2) - 5
+    time.sleep(0.5)
+    lines_top = (t.height // 2) - 6
     print("\n" * max(lines_top, 0))
 
     cards = [
-        (COLD, "  The city kept its watch."),
-        ("",   ""),
-        (FOG,  "  ─────────────────────────────────────────────"),
-        ("",   ""),
-        (AMBER,"  [ end ]"),
-        ("",   ""),
-        (DIM,  "  leib weissman  ·  2026"),
-        (DIM,  "  source: retro/2026-04-20_ronnie_dirksen_coffee.md"),
-        (DIM,  "  understood: somehow."),
+        (FOG,          "  ─────────────────────────────────────────────"),
+        ("",           ""),
+        (AMBER + BOLD, "  C H A P T E R   I I"),
+        ("",           ""),
+        (COLD,         "  A   S E C O N D   C O F F E E"),
+        ("",           ""),
+        (FOG,          "  ─────────────────────────────────────────────"),
+        ("",           ""),
+        (DIM,          "  something in the sky.  something in the news."),
+        (DIM,          "  the same two men.  the night after."),
+    ]
+    for color, text in cards:
+        if text == "":
+            print()
+        else:
+            print(color + text + RESET)
+        time.sleep(0.18)
+
+    wait_key()
+
+
+def end_card():
+    clear()
+    lines_top = (t.height // 2) - 7
+    print("\n" * max(lines_top, 0))
+
+    cards = [
+        (COLD,     "  The city kept its watch."),
+        (ELECTRIC, "  Something else kept its watch too."),
+        ("",       ""),
+        (FOG,      "  ─────────────────────────────────────────────"),
+        ("",       ""),
+        (AMBER,    "  [ end ]"),
+        ("",       ""),
+        (DIM,      "  leib weissman  ·  2026"),
+        (DIM,      "  chapter i  · retro/2026-04-20_ronnie_dirksen_coffee.md"),
+        (DIM,      "  chapter ii · retro/2026-04-21_ronnie_dirksen_second_coffee.md"),
+        ("",       ""),
+        (DIM,      "  understood: somehow."),
+        (DIM,      "  distributed: somehow."),
     ]
     for color, text in cards:
         if text == "":
@@ -550,13 +889,17 @@ def end_card():
 
 # ── main ──────────────────────────────────────────────────────────────────────
 
-SCENES = [s01, s02, s03, s04, s05, s06, s07, s08, s09, s10, s11, s12]
+SCENES_CH1 = [s01, s02, s03, s04, s05, s06, s07, s08, s09, s10, s11, s12]
+SCENES_CH2 = [s13, s14, s15, s16, s17, s18, s19, s20]
 
 
 def main():
     with t.fullscreen(), t.hidden_cursor():
         title_card()
-        for fn in SCENES:
+        for fn in SCENES_CH1:
+            fn()
+        chapter2_title_card()
+        for fn in SCENES_CH2:
             fn()
         end_card()
 
