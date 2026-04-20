@@ -1,3 +1,5 @@
+claude --resume ba307398-b45e-42ba-ace3-719e3c99dab5            
+
 # claude-team
 
 An art experiment in character-driven storytelling through AI agents.

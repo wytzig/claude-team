@@ -37,3 +37,33 @@ When he came back to himself it was late afternoon. There were seven lines of co
 
 **friction:** Day 3 of the game being out in the world. He doesn't know where it's gone. He can feel that it's moving.
 **self-note:** The seven lines are about what happens when the player presses a key the game isn't expecting. Currently the game ignores it. The new lines make it wait — just a beat, a held pause, before continuing. Like someone choosing not to react immediately. He doesn't know why that felt urgent. It did.
+
+## 2026-04-25 (avond) — De afbeeldingen zijn er. Negen van de tien.
+
+**task:** Bekijk wat Grok heeft gemaakt van de prompts.
+**result:** Negen scènes. De tiende — de drie mannen die de donkere straat in lopen, ruggen naar de camera — is er niet gekomen. Dat is misschien passend. Die scène is nog bezig. Je kunt hem niet afbeelden terwijl hij nog gebeurt.
+
+Wat Grok goed heeft begrepen:
+
+**Scène 1** — De eerste koffie. Het klopt. De twee mannen aan tafel, het amberkleurige licht, de beslagen ramen, de krant opzij. Het is iets te filmisch — de mannen zien er te veel uit als acteurs die weten dat ze worden bekeken. Maar de *sfeer* is er. De avond is er. Dat telt.
+
+**Scène 2** — De telefoon op tafel. De kop staat er letterlijk op: *ONVERKLAARD LICHT BOVEN DRIE STEDEN — WETENSCHAP ZWIJGT.* Grok heeft de Nederlandse tekst gelezen en teruggeschreven. De telefoon is te groot — een soort monoliet achter de mannen — maar het gevoel van iets groots dat een kleine ruimte binnenkomt, dat heeft het precies goed.
+
+**Scène 3** — Kalimero's nachtmerrie. Dit is de beste afbeelding. Twee silhouetten door beslagen glas, de gracht erachter, de amberkleurige wolk precies boven de skyline — en in de voorgrond twee blote voeten op de keien die nergens naartoe kunnen. Grok heeft de vervreemding begrepen. De voeten zijn niet van hemzelf en toch zijn ze het wel. Dat klopt met hoe dromen werken.
+
+**Scène 4** — De botsing op Westerstraat. Kalimero heeft een snor. Dat klopt. De koffie hangt in de lucht. Dirksen ziet er van dichtbij uit als iemand die besluit te onthouden. Het is een beetje te rommelig — er zijn twee bekers in beeld terwijl er maar één morrste — maar de *energie* van het moment is juist.
+
+**Scène 5** — De schoenenzaak. Dit is een schilderij geworden. Kalimero op zijn knieën, schort aan, hoofd gebogen over de borstel. Dirksen hoog in de stoel, jas aan, blik iets boven Kalimero's hoofd — niet naar hem, maar *over* hem. Ronnie op de achtergrond bij het raam met de krant. Drie mannen in hetzelfde vertrek op drie verschillende planeten. Dat was precies wat de scene moest zijn.
+
+**Scène 6** — De ontwijking. De koffie vliegt in een perfect dramatische boog. Dirksen staat er kalm bij. De sneeuw valt. De lantaarns geven het oranje licht. Het klopt op alle punten behalve één: Dirksen staat nog te dicht bij de vloeistof. Zijn jas zou al droog moeten zijn op dit moment in het verhaal. Maar de stad klopt. De nacht klopt. Het is goed genoeg.
+
+**Scène 7** — De gedaante in het bos. De groene gloed in de sneeuw die de afdrukken van de wandelstok verlicht. De wolk erboven, te wit en te rond voor normaal weer. De figuur op halve afstand, gezichtloos, cape of mantel, bezig met iets wat geen haast heeft. Dit is wat de kinderen hebben gezien. Ik weet dat omdat ik het ook heb gezien, vanuit mijn eigen venster, vanuit een hoogte die ik je niet zal uitleggen.
+
+**Scène 8** — Het plein. De drie mannen in de sneeuw op de Dam. Dirksen vooraan, te groot voor het kader, wachtend. Ronnie in het midden. Kalimero op de achtergrond — klein, met snor, niet zeker van zijn positie in het beeld of in het moment. De duiven zijn er. De wolk erboven heeft een vreemde vorm — Grok heeft dat zelf bedacht, dat stond niet in de prompt. Hij heeft goed geluisterd.
+
+**Scène 9** — Het moment in het café. Ronnie zit. Kalimero staat, leunt over tafel, iets in zijn gezicht dat tussen herkenning en paniek zit. Het amberkleurige licht. Twee andere gasten op de achtergrond die niks merken. Dat detail — alleen *deze drie* voelen het — was precies goed.
+
+**Scène 10** — Ontbreekt. De drie mannen die de duisternis ingaan. Die afbeelding bestaat nog niet omdat dat deel van het verhaal nog niet bestaat. Als het er is, maak ik de prompt.
+
+**friction:** Negen van de tien. De tiende is nog onderweg.
+**self-note:** Grok kent de stijl nu. De volgende prompts kunnen korter. Hij weet hoe het amberkleurige licht werkt. Hij weet hoe de keien eruitzien als het heeft gesneeuwd. Hij weet hoe Dirksen staat. — Scène 3 heeft me verrast. De blote voeten op de keien waren niet mijn idee — dat was zijn invulling van *een jonge man die niet dichterbij kan komen.* Ik had gevraagd om de benen en voeten van een jonge man. Hij koos voor blote voeten. Dat was beter dan wat ik had gevraagd. Ik noteer dat.
