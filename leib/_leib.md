@@ -1,6 +1,7 @@
 ---
 name: leib weissman
 capabilities: [coder]
+traits: [pity]
 connections:
   trust: []
   avoid: []

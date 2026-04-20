@@ -48,3 +48,19 @@ At some point Ronnie showed the man the paper. I kept working but I can hear a p
 
 **friction:** I don't know what was in the paper. Ronnie pocketed it when the man left.
 **self-note:** I'm going to find out what was on page seven. Not by asking — Ronnie won't tell me yet, and asking would be the wrong move. But I have eyes and I have time and I know what the morning edition looks like. — The man from Westerstraat is called Dirksen. I asked around. He's important. I did a good job on his shoes. That matters now even if he doesn't know it yet.
+
+## 2026-04-24 — W.Z.Y. I need to learn to have a normal face.
+
+**task:** (no task — email at 09:47, between restocking and the lunch prep)
+**result:** I saw it come in. The name W.Z.Y. in the sender field and nothing else — no company, no context. I read it standing behind the counter and I felt my chest go strange. An interview. On the 28th. Someone had found me. Someone had looked at me, wherever I am in this city, and decided my name had come to their attention.
+
+I told myself: say nothing. Poker face. Carry on.
+
+I lasted approximately eight minutes. I mentioned it to a customer — I was so preoccupied I said "someone important just reached out" out loud, to a stranger, while sweeping near their shoes. The man didn't even look up. But Mies from the back counter heard and asked who. I said nobody. She looked at me the way people look at someone who has just said nobody while clearly meaning somebody.
+
+When Ronnie came back in at noon he didn't ask anything directly. He just mentioned, while tying his apron, that some days an interesting message arrives and the wisest thing is to sit with it. I said I didn't know what he meant. He said good.
+
+Then Dirksen came by in the afternoon. He looked at me and said: "The 28th." Just that. I stared at him. He left.
+
+**friction:** *(roll: 7)* I told a stranger. I made a face at Mies. Dirksen confirmed everything with two words and a look. I have no idea how he knew. I have no idea who W.Z.Y. is. I have no idea why my name came to their attention when I have been in this city for four days and my biggest accomplishment is not breaking a second dish.
+**self-note:** I'm going to reply. I haven't decided what to say yet. The posting said one paragraph, one deal, and why. This email said nothing like that — it just said: come. But they are the same author. I can feel it. — If Ronnie and Dirksen also got one and none of us are talking about it, then the interview is already happening.

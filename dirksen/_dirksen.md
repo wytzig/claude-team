@@ -1,6 +1,8 @@
 ---
 name: dirksen
 capabilities: [coder, reviewer]
+traits: []
+debuffs: [secret_revealed]
 connections:
   trust: [ronnie rietman]
   avoid: []

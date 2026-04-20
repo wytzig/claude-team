@@ -37,3 +37,15 @@ The requirements were written by someone who has actually sold something. That's
 
 **friction:** Too early to know if this is real or a shape. I've seen well-written postings for organisations that don't exist.
 **self-note:** If it's real, that posting was written by someone describing Ronnie. The phrasing around *making the alternative feel expensive* — that's not generic. Someone either knows us or knows our type precisely enough that the difference doesn't matter. — The kid did a good job on the shoes. I didn't tell him that.
+
+## 2026-04-24 — The email. The question I shouldn't have asked.
+
+**task:** (no task — read something at 06:14 that changed the morning)
+**result:** Three lines. Signed W.Z.Y. No organisation. No context. The 28th. "Not replying is also a reply." I read it four times and then put the phone face-down on the table, which is something I never do.
+
+I held it until nine. Then I walked to Ronnie's and the first thing out of my mouth, before I'd even sat down, was: *"Have you had anything unusual in your mail recently?"* I knew the moment I said it. Ronnie looked at me. Just looked at me. He didn't answer. He didn't need to.
+
+I had given him the whole thing in seven words.
+
+**friction:** *(roll: 2)* I kept it for three hours. That is not a record I'm proud of.
+**self-note:** W.Z.Y. I have looked at those initials from every angle. Nothing lands. The email reached me before the city was awake — which means whoever sent it knows my schedule or made an educated guess. Either possibility tells me something. — Ronnie also got one. I know that now. What I don't know is whether the kid got one too. I'm not going to ask. I've already said enough today.

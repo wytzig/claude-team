@@ -40,3 +40,15 @@ I read it twice. Dirksen was looking at me over Kalimero's head. I showed him th
 
 **friction:** Don't know who posted it. Don't know who Weissman Industries is. The name sits in my mouth in a way I can't explain.
 **self-note:** The address is acquisitions@weissman.io. I haven't decided anything. But I read it a third time when Dirksen left. Kalimero finished the shoes and asked if there was anything else. I said no and folded the paper and put it in my coat pocket. I don't usually keep the paper.
+
+## 2026-04-24 — W.Z.Y. Three letters that arrived with the coffee.
+
+**task:** (no task — message in the inbox at 08:31, between the first cup and the second)
+**result:** I read it once. Put the phone in my pocket. Poured a second cup. Read it again. The language is clean — no excess, no sell. *Your name has come to my attention.* Not "I've heard great things." Not "I'd love to connect." Just: your name. My attention. The 28th. Reply or don't.
+
+I decided I wouldn't mention it. That lasted until Dirksen walked in and asked about unusual mail before he'd taken off his coat. I looked at him. He looked at me. We both knew. I told him nothing and he told me nothing and somehow we each confirmed everything.
+
+Kalimero was restocking at the back. He came out a few minutes later. I thought I'd kept my face neutral. He asked, while adjusting a brush on the shelf, whether anyone had messaged us from somewhere we didn't recognise. He said it like a casual question. It was not a casual question.
+
+**friction:** *(roll: 9)* I thought I was composed. Dirksen saw through me in the first three seconds. That's what I get for working with him for as long as I have — he reads the tells I don't know I have.
+**self-note:** Three of us got the same message. I don't know how W.Z.Y. arrived at all three names — we don't move in the same circles, at least not visibly. Kalimero's been here less than a week. That either means someone has been watching the shop, or W.Z.Y. is something other than a person moving through ordinary channels. — The 28th is four days away. I haven't replied. I'm not going to decide until I know more. But I'm also not going to ignore it.

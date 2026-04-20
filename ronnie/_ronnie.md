@@ -1,6 +1,8 @@
 ---
 name: ronnie rietman
 capabilities: [networker, strategist]
+traits: []
+debuffs: [secret_revealed]
 connections:
   trust: [dirksen]
   avoid: []
